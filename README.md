@@ -1,4 +1,4 @@
-<div dir="ltr" align="left">
+<div dir="ltr" align="center">
 
 ### Hi there! 👋  
 I'm Mahan, a passionate **backend developer** with a deep love for coding and problem-solving. 🚀  
