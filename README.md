@@ -37,8 +37,21 @@ Feel free to explore my repositories and connect with me for collaboration or di
   <a href="https://t.me/Mahanirzz" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
+  <a href="[https://discord.gg/C2f4V9Gz](https://discord.gg/zfCwgUNK)" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
 
 </div>
+
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mahan-rezaei&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mahan-rezaei&icon=5&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
