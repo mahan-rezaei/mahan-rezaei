@@ -37,8 +37,8 @@ Feel free to explore my repositories and connect with me for collaboration or di
   <a href="https://t.me/Mahanirzz" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="[https://discord.gg/C2f4V9Gz](https://discord.gg/zfCwgUNK)" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white" alt="Discord" />
+ <a href="https://discord.com/users/mutebaby" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
