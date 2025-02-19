@@ -1,7 +1,8 @@
 <div dir="ltr" align="ltr">
 
 ### Hi there! 👋  
-I'm Mahan,  
+I'm Mahan, a student who loves coding and is always eager to learn and improve. 🚀
+My goal is to grow as a developer and build awesome projects!  
 
 🔹 **Skills & Technologies:**  
 - Proficient in **Python**, specializing in **Django** and **Django REST Framework (DRF)**  
