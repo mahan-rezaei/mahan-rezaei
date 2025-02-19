@@ -1,7 +1,7 @@
 <div dir="ltr" align="ltr">
 
 ### Hi there! 👋  
-I'm Mahan, a passionate **backend developer** with a deep love for coding and problem-solving. 🚀  
+I'm Mahan,  
 
 🔹 **Skills & Technologies:**  
 - Proficient in **Python**, specializing in **Django** and **Django REST Framework (DRF)**  
@@ -32,15 +32,6 @@ Feel free to explore my repositories and connect with me for collaboration or di
   </a>
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  </a>
-  <a href="https://www.django-rest-framework.org/" target="_blank">
-    <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
-  </a>
-  <a href="https://www.rabbitmq.com/" target="_blank">
-    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-  </a>
-  <a href="https://docs.celeryq.dev/en/stable/" target="_blank">
-    <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
   </a>
 </p>
 
