@@ -1,7 +1,7 @@
 <div dir="ltr" align="ltr">
 
 ### Hi there! 👋  
-I'm Mahan, a student who loves coding and is always eager to learn and improve. 🚀
+I'm Mahan, a student who loves coding and is always eager to learn and improve. 🚀<br>
 My goal is to grow as a developer and build awesome projects!  
 
 🔹 **Skills & Technologies:**  
