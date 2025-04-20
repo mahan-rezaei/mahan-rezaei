@@ -13,8 +13,6 @@ My goal is to grow as a developer and build awesome projects!
 - Learning and integrating **Celery** and **RabbitMQ** for task queuing  
 - Exploring testing methodologies to ensure robust code  
 
-🔹 **Fun Fact:**  
-I enjoy programming so much that it feels like solving puzzles every day! 🧩  
 
 Feel free to explore my repositories and connect with me for collaboration or discussions. Let's build something amazing together! 💻✨  
 
