@@ -60,12 +60,3 @@ Feel free to explore my repositories and connect with me for collaboration or di
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mahan-rezaei&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=mahan-rezaei&icon=5&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
