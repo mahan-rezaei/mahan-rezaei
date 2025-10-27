@@ -7,7 +7,7 @@ Focused on **clean architecture**, **asynchronous processing**, and **high-perfo
 
 ### 🧠 Tech Stack
 
-**Languages:** Python, JavaScript (learning)  
+**Languages:** Python,
 **Frameworks:** Django, Django REST Framework  
 **Tools & Queues:** Celery, RabbitMQ, Redis  
 **Databases:** PostgreSQL  
