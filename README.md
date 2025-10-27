@@ -1,60 +1,43 @@
-<div dir="ltr" align="ltr">
+<div align="center">
 
-### Hi there! 👋  
-I'm Mahan, a student who loves coding and is always eager to learn and improve. 🚀<br>
-My goal is to grow as a developer and build awesome projects!  
+# Mahan — Backend Developer  
 
-🔹 **Skills & Technologies:**  
-- Proficient in **Python**, specializing in **Django** and **Django REST Framework (DRF)**  
-- Familiar with **HTML** and **CSS**, and learning **JavaScript** to broaden my frontend knowledge  
-
-🔹 **Current Focus:**  
-- Building scalable backend systems using **Django**  
-- Learning and integrating **Celery** and **RabbitMQ** for task queuing  
-- Exploring testing methodologies to ensure robust code  
-
-
-Feel free to explore my repositories and connect with me for collaboration or discussions. Let's build something amazing together! 💻✨  
+Building **scalable, reliable backend systems** with Django, Django REST Framework, and Celery.  
+Focused on **clean architecture**, **async processing**, and **high-performance APIs**.
 
 ---
 
-### 🛠️ Languages & Tools:
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  </a>
-  <a href="https://redis.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </a>
-</p>
+### 🧠 Tech Stack
 
+**Languages:** Python, JavaScript (learning)  
+**Frameworks:** Django, Django REST Framework  
+**Tools & Queues:** Celery, RabbitMQ, Redis  
+**Databases:** PostgreSQL  
+**Version Control:** Git  
 
 ---
 
-### 📬 Contact Me:
-<p>
-  <a href="https://t.me/Mahanirzz" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
- <a href="https://discord.com/users/mutebaby" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
+### ⚙️ What I Do
+
+- Design and build RESTful APIs with **Django REST Framework**  
+- Implement background tasks using **Celery + RabbitMQ**  
+- Optimize database queries and structure in **PostgreSQL**  
+- Utilize **Redis** for caching and async message passing  
+- Write maintainable, testable, and production-grade backend code  
+
+---
+
+### 🚀 Current Focus
+
+- Building real-world backend systems  
+- Learning **Django Channels** for real-time communication  
+- Exploring scalable API architecture and deployment strategies  
+
+---
+
+### 📫 Contact
+<a href="https://t.me/Mahanirzz" target="_blank">Telegram</a> • 
+<a href="https://discord.com/users/mutebaby" target="_blank">Discord</a>
 
 </div>
 
