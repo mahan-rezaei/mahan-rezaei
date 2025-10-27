@@ -35,5 +35,5 @@ Focused on **clean architecture**, **asynchronous processing**, and **high-perfo
 
 ### 📫 Contact
 
-- Telegram: [@Mahanirzz](https://t.me/Mahanirzz)  
+- Telegram: [@Mahanirzz](https://t.me/Mahaniirrzz)  
 - Discord: [mutebaby](https://discord.com/users/mutebaby)
