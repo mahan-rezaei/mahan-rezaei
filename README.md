@@ -1,9 +1,7 @@
-<div align="center">
+# Mahan — Backend Developer
 
-# Mahan — Backend Developer  
-
-Building **scalable, reliable backend systems** with Django, Django REST Framework, and Celery.  
-Focused on **clean architecture**, **async processing**, and **high-performance APIs**.
+Building **scalable and reliable backend systems** using Django, Django REST Framework, and Celery.  
+Focused on **clean architecture**, **asynchronous processing**, and **high-performance APIs**.
 
 ---
 
@@ -20,10 +18,10 @@ Focused on **clean architecture**, **async processing**, and **high-performance 
 ### ⚙️ What I Do
 
 - Design and build RESTful APIs with **Django REST Framework**  
-- Implement background tasks using **Celery + RabbitMQ**  
-- Optimize database queries and structure in **PostgreSQL**  
-- Utilize **Redis** for caching and async message passing  
-- Write maintainable, testable, and production-grade backend code  
+- Implement background and scheduled tasks using **Celery + RabbitMQ**  
+- Optimize relational databases with **PostgreSQL**  
+- Use **Redis** for caching and message brokering  
+- Write maintainable, testable, production-grade backend code  
 
 ---
 
@@ -36,10 +34,6 @@ Focused on **clean architecture**, **async processing**, and **high-performance 
 ---
 
 ### 📫 Contact
-<a href="https://t.me/Mahanirzz" target="_blank">Telegram</a> • 
-<a href="https://discord.com/users/mutebaby" target="_blank">Discord</a>
 
-</div>
-
-
-
+- Telegram: [@Mahanirzz](https://t.me/Mahanirzz)  
+- Discord: [mutebaby](https://discord.com/users/mutebaby)
