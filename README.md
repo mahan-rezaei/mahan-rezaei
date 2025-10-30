@@ -28,7 +28,6 @@ Focused on **clean architecture**, **asynchronous processing**, and **high-perfo
 ### 🚀 Current Focus
 
 - Building real-world backend systems  
-- Learning **Django Channels** for real-time communication  
 - Exploring scalable API architecture and deployment strategies  
 
 ---
