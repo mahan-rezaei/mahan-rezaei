@@ -10,11 +10,11 @@ Building reliable backend services with clean architecture, predictable APIs, an
 ##  Tech Stack
 **Languages:** Python
 
-**Backend:** Django, Django REST Framework, Celery, RabbitMQ, JWT
+**Backend:** Django, Django REST Framework
 
 **Database:** PostgreSQL, MongoDB, Redis
 
-**Tools:** Docker, Git, GitHub, Linux
+**Tools:** Git, Celery, RabbitMQ
 
 
 
