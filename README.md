@@ -1,13 +1,13 @@
 # **mahan — backend developer**
 
----
+
 
 ## About Me
 Building reliable backend services with clean architecture, predictable APIs, and scalable infrastructure.
 
----
 
-## 🛠 Tech Stack
+
+##  Tech Stack
 **Languages:** Python, JavaScript
 
 **Backend:** Django, Django REST Framework, Celery, RabbitMQ, JWT
@@ -16,8 +16,8 @@ Building reliable backend services with clean architecture, predictable APIs, an
 
 **Tools:** Docker, Git, GitHub, Linux
 
----
 
-## 📫 Contact
+
+##  Contact
 - **Telegram:** Mahaniirrzz
 - **Email:** yourmail@example.com
