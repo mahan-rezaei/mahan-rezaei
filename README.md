@@ -8,7 +8,7 @@ Building reliable backend services with clean architecture, predictable APIs, an
 
 
 ##  Tech Stack
-**Languages:** Python, JavaScript
+**Languages:** Python
 
 **Backend:** Django, Django REST Framework, Celery, RabbitMQ, JWT
 
